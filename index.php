@@ -13,6 +13,7 @@
       <input type="submit" value="Sprawdź" name="submit">
     </form>
   </body>
+  rgfdrfg
   <?php
   if (isset($_POST["submit"])){
     if (isset($_POST["waga"]) && isset($_POST["wzrost"]) && $_POST["waga"] > 0 && $_POST["wzrost"] > 0)
